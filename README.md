@@ -1,3 +1,9 @@
+<img src="assets/images/layout/header_title_logo.png">
+
+<br/><br/>
+
+[<img src="./assets/images/icons/nodedotjs.svg" width="35px" height="35px" title="Node.js" alt="Node.js"> <img src="./assets/images/icons/express.svg" width="35px" height="35px" title="Express" alt="Express"> <img src="./assets/images/icons/npm.svg" width="35px" height="35px" alt="npm" title="npm"> <img src="./assets/images/icons/eslint.svg" width="35px" height="35px" alt="Eslint" title="Eslint"> <img src="./assets/images/icons/jest.svg" width="35px" height="35px" alt="Jest" title="Jest"> <img src="./assets/images/icons/docker.svg" width="35px" height="35px" alt="Docker" title="Docker"> <img src="./assets/images/icons/github.svg" width="35px" height="35px" alt="GitHub" title="GitHub"> <img src="./assets/images/icons/visualstudiocode.svg" width="35px" height="35px" alt="vscode" title="vscode">](#estudo-node-clean-architecture) <!-- icons by https://simpleicons.org/?q=types -->
+
 ### O Projeto:
 
 Projeto do livro: [Desenvolvimento de Backend com Node.js, TypeScript, MongoDB e Docker: Práticas Avançadas com TDD, DDD, Clean Architecture e SOLID
