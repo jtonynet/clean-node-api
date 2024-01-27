@@ -1,9 +1,9 @@
 <a id="clean-node-api"></a>
 
-<img src="assets/images/layout/header_title_logo.png">
+<img src="./docs/assets/images/layout/header_title_logo.png">
 
 
-[<img src="./assets/images/icons/nodedotjs.svg" width="25px" height="25px" title="Node.js" alt="Node.js">](https://nodejs.org/en) [<img src="./assets/images/icons/typescript.svg" width="25px" height="25px" title="TypeScript" alt="TypeScript">](https://www.typescriptlang.org/) [<img src="./assets/images/icons/express.svg" width="25px" height="25px" title="Express" alt="Express">](https://expressjs.com/) [<img src="./assets/images/icons/mongodb.svg" width="25px" height="25px" alt="mongodb" title="mongodb">]() [<img src="./assets/images/icons/npm.svg" width="25px" height="25px" alt="npm" title="npm">](https://www.npmjs.com/) [<img src="./assets/images/icons/eslint.svg" width="25px" height="25px" alt="Eslint" title="Eslint">](https://eslint.org/) [<img src="./assets/images/icons/jest.svg" width="25px" height="25px" alt="Jest" title="Jest">](https://jestjs.io/) [<img src="./assets/images/icons/jsonwebtokens.svg" width="25px" height="25px" alt="jsonwebtokens" title="jsonwebtokens">]([jsonwebtokens.svg](https://jwt.io/)) [<img src="./assets/images/icons/docker.svg" width="25px" height="25px" alt="Docker" title="Docker">](https://www.docker.com/) [<img src="./assets/images/icons/github.svg" width="25px" height="25px" alt="GitHub" title="GitHub">](https://github.com/) [<img src="./assets/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="vscode" title="vscode">](https://code.visualstudio.com/) <!-- icons by https://simpleicons.org/?q=types -->
+[<img src="./docs/assets/images/icons/nodedotjs.svg" width="25px" height="25px" title="Node.js" alt="Node.js">](https://nodejs.org/en) [<img src="./docs/assets/images/icons/typescript.svg" width="25px" height="25px" title="TypeScript" alt="TypeScript">](https://www.typescriptlang.org/) [<img src="./docs/assets/images/icons/express.svg" width="25px" height="25px" title="Express" alt="Express">](https://expressjs.com/) [<img src="./docs/assets/images/icons/mongodb.svg" width="25px" height="25px" alt="mongodb" title="mongodb">]() [<img src="./docs/assets/images/icons/npm.svg" width="25px" height="25px" alt="npm" title="npm">](https://www.npmjs.com/) [<img src="./docs/assets/images/icons/eslint.svg" width="25px" height="25px" alt="Eslint" title="Eslint">](https://eslint.org/) [<img src="./docs/assets/images/icons/jest.svg" width="25px" height="25px" alt="Jest" title="Jest">](https://jestjs.io/) [<img src="./docs/assets/images/icons/jsonwebtokens.svg" width="25px" height="25px" alt="jsonwebtokens" title="jsonwebtokens">]([jsonwebtokens.svg](https://jwt.io/)) [<img src="./docs/assets/images/icons/docker.svg" width="25px" height="25px" alt="Docker" title="Docker">](https://www.docker.com/) [<img src="./docs/assets/images/icons/github.svg" width="25px" height="25px" alt="GitHub" title="GitHub">](https://github.com/) [<img src="./docs/assets/images/icons/visualstudiocode.svg" width="25px" height="25px" alt="vscode" title="vscode">](https://code.visualstudio.com/) <!-- icons by https://simpleicons.org/?q=types -->
 
 ![Badge Status](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-green?style=for-the-badge) 
 
@@ -64,7 +64,7 @@ No menu do `VsCode` acesse `Arquivo > Preferências > Configurar Snippets de Usu
 ---
 <a id="diagrama"></a>
 #### :bar_chart: Diagrama do projeto usando Clean Architecture:
-<img src="./assets/images/screen_captures/project_clean_architecture_diagram.png">
+<img src="./docs/assets/images/screen_captures/project_clean_architecture_diagram.png">
 
 _Imagem retirada do livro_
 
@@ -97,7 +97,7 @@ $ ln -s ../.husky/commit-msg .git/hooks/commit-msg
 ### :robot: Uso de IA:
 
 O cabeçalho desta página foi criado com a fonte [cinema-st](https://www.dafont.com/pt/cinema-st.font?text=CineTicket&psize=l) e o auxílio de inteligência artificial e um mínimo de 
-retoque e construção no Gimp [<img src="./assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
+retoque e construção no Gimp [<img src="./docs/assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
 
 
 __Foram utilizados os seguintes prompts para sua criação no [Bing IA:](https://www.bing.com/images/create/)__
