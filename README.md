@@ -10,9 +10,9 @@
 ---
 
 <a id="encontreme"></a>
-### 🕸️ Encontre-me na web:
+### 🕸️ Redes:
 
- [![linkedin](https://img.shields.io/badge/Acesse%20o%20meu-linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![twitter](https://img.shields.io/badge/Acesse%20o%20meu-twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aromademirtilo) [![Instagram](https://img.shields.io/badge/Acesse%20o%20meu-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learningenuity/)
+[![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-r-99896a39/) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/learningenuity) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:learningenuity@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aromademirtilo) [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/learningenuity) 
 
 ---
 
