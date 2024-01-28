@@ -21,7 +21,7 @@
 
 [Node Clean Architecture](#clean-node-api)<br/>
   1. :arrow_heading_up: [index](#arrow_heading_up-index)
-  2. :green_book: [Sobre](#sobre)
+  2. :book: [Sobre](#sobre)
   3. :white_check_mark: [Testes](#test)
   4. :bar_chart: [Diagrama](#diagrama)
   5. :wolf: [Configurando Husky](#husky)
@@ -30,10 +30,11 @@
 
 ---
 <a id="sobre"></a>
-### :green_book: Sobre:
+### :book: Sobre:
 
-Projeto do livro: [Desenvolvimento de Backend com Node.js, TypeScript, MongoDB e Docker: Práticas Avançadas com TDD, DDD, Clean Architecture e SOLID
-](https://www.amazon.com.br/gp/product/B0CGCCMY2Q/ref=kinw_myk_ro_title)
+| Descrição: | Capa: |
+|--------|---------------|
+|Projeto do livro: [Desenvolvimento de Backend com Node.js, TypeScript, MongoDB e Docker: Práticas Avançadas com TDD, DDD, Clean Architecture e SOLID](https://www.amazon.com.br/gp/product/B0CGCCMY2Q/ref=kinw_myk_ro_title) |<img src="./docs/assets/images/screen_captures/book_cover.jpg">|
 
 [:arrow_heading_up: voltar](#indice)
 
