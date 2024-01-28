@@ -97,7 +97,7 @@ $ ln -s ../.husky/commit-msg .git/hooks/commit-msg
 <a id="ia"></a>
 ### :robot: Uso de IA:
 
-O cabeçalho desta página foi criado com a fonte [cinema-st](https://www.dafont.com/pt/cinema-st.font?text=CineTicket&psize=l) e o auxílio de inteligência artificial e um mínimo de 
+O cabeçalho desta página foi criado com o auxílio de inteligência artificial e um mínimo de 
 retoque e construção no Gimp [<img src="./docs/assets/images/icons/gimp.svg" width="30" height="30" title="Gimp" alt="Logo do Gimp" />](https://www.gimp.org/)
 
 
